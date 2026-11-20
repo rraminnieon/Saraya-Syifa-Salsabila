@@ -1,0 +1,23 @@
+{
+  "name": "stitch-adventure-2d",
+  "version": "1.0.0",
+  "description": "STITCH ADVENTURE - A 2D retro platformer featuring Stitch in Hawaii and beyond!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "powershell -ExecutionPolicy Bypass -File server.ps1"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "keywords": [
+    "stitch",
+    "platformer",
+    "phaser3",
+    "game",
+    "hawaii",
+    "mario-style"
+  ],
+  "author": "Autonomous Development Team",
+  "license": "MIT"
+}
